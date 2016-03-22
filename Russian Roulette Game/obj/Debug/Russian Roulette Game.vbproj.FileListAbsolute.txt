@@ -1,0 +1,43 @@
+C:\Users\ts033\AppData\Local\Temporary Projects\Russian Roulette Game\bin\Debug\Russian Roulette Game.exe.config
+C:\Users\ts033\AppData\Local\Temporary Projects\Russian Roulette Game\bin\Debug\Russian Roulette Game.exe
+C:\Users\ts033\AppData\Local\Temporary Projects\Russian Roulette Game\bin\Debug\Russian Roulette Game.pdb
+C:\Users\ts033\AppData\Local\Temporary Projects\Russian Roulette Game\bin\Debug\Russian Roulette Game.xml
+C:\Users\ts033\AppData\Local\Temporary Projects\Russian Roulette Game\obj\Debug\Russian Roulette Game.vbprojResolveAssemblyReference.cache
+C:\Users\ts033\AppData\Local\Temporary Projects\Russian Roulette Game\obj\Debug\Russian_Roulette_Game.Game.resources
+C:\Users\ts033\AppData\Local\Temporary Projects\Russian Roulette Game\obj\Debug\Russian_Roulette_Game.Resources.resources
+C:\Users\ts033\AppData\Local\Temporary Projects\Russian Roulette Game\obj\Debug\Russian_Roulette_Game.Welcome.resources
+C:\Users\ts033\AppData\Local\Temporary Projects\Russian Roulette Game\obj\Debug\Russian Roulette Game.vbproj.GenerateResource.Cache
+C:\Users\ts033\AppData\Local\Temporary Projects\Russian Roulette Game\obj\Debug\Russian Roulette Game.exe
+C:\Users\ts033\AppData\Local\Temporary Projects\Russian Roulette Game\obj\Debug\Russian Roulette Game.xml
+C:\Users\ts033\AppData\Local\Temporary Projects\Russian Roulette Game\obj\Debug\Russian Roulette Game.pdb
+\\telmar\users\TS033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\bin\Debug\Russian Roulette Game.exe.config
+\\telmar\users\TS033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.exe
+\\telmar\users\TS033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.xml
+\\telmar\users\TS033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.pdb
+\\telmar\users\TS033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.vbprojResolveAssemblyReference.cache
+\\telmar\users\TS033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian_Roulette_Game.Game.resources
+\\telmar\users\TS033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian_Roulette_Game.Resources.resources
+\\telmar\users\TS033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian_Roulette_Game.Welcome.resources
+\\telmar\users\TS033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.vbproj.GenerateResource.Cache
+\\telmar\users\TS033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\bin\Debug\Russian Roulette Game.exe
+\\telmar\users\TS033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\bin\Debug\Russian Roulette Game.pdb
+\\telmar\users\TS033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\bin\Debug\Russian Roulette Game.xml
+\\telmar\users\ts033\My Documents\Visual Studio 2015\Projects\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian_Roulette_Game.Scores.resources
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\bin\Debug\Russian Roulette Game.exe.config
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.exe
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.xml
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.pdb
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\bin\Debug\Russian Roulette Game.exe
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\bin\Debug\Russian Roulette Game.pdb
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\bin\Debug\Russian Roulette Game.xml
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.vbprojResolveAssemblyReference.cache
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian_Roulette_Game.Game.resources
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian_Roulette_Game.Resources.resources
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian_Roulette_Game.Scores.resources
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian_Roulette_Game.Welcome.resources
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.vbproj.GenerateResource.Cache
+E:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian_Roulette_Game.Instructions.resources
+F:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\bin\Debug\Russian Roulette Game.exe.config
+F:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.exe
+F:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.xml
+F:\Development\Russian Roulette\Russian Roulette Game\Russian Roulette Game\obj\Debug\Russian Roulette Game.pdb
